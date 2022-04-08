@@ -7,5 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mileytores.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Cultura de un Desarrollador de Software</title>
+      <link>https://mileytores.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://mileytores.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>En la actualidad el desarrollo de software cada vez toma más y más fuerza en todos los ámbitos de nuestra vida, con una tecnología que cada vez esta más presente en la vida diaria, es importante el surgimiento de nuevos desarrolladores. El software conecta y crea nuevas experiencias en el mundo por medio del código, asi como lo hace la literatura por medio de las palabras. Tal como otras ramas de la ciencia, el desarrollador de software tambien necesita crearse una cultura que satisfaga la necesidad tanto del programador como del usuario final.</description>
+    </item>
+    
   </channel>
 </rss>
