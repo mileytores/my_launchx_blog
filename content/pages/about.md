@@ -9,8 +9,8 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
+> Hola, mi nombre es Erick Antonio, actualmente soy Sales Engineer y mi enfoque es Seguridad y Nube, aunque tambien me gusta aprender cosas nuevasaaaaaaaaaaaaaaa
+> y quiero convertirme en Developer y posteriormente en Devops. Formo parte de LaunchX y con estoy adquiriendo muchos conocimientos nuevos.
 > mittere Erymanthon habetque tot.
 
 **Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
